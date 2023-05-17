@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-maps-resizing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
